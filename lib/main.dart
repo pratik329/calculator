@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
 class CalculatorHomePage extends StatefulWidget {
   CalculatorHomePage({Key? key, required this.title}) : super(key: key);
   final String title;
-
   @override
   _CalculatorHomePageState createState() => _CalculatorHomePageState();
 }
